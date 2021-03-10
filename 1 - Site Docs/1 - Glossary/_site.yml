@@ -1,0 +1,11 @@
+name: "Programming-Book"
+navbar:
+  title: "My Programming Book"
+  left:
+    - text: "Home"
+      href: "../index.html"
+
+
+
+      
+output_dir: '.'

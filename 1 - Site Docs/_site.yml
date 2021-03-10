@@ -1,0 +1,16 @@
+name: "Bioinformatics-Book"
+navbar:
+  title: "My Bioinformatics Book"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Package Glossary"
+      href: "PackageGlossary.html"
+    - text: "Models"
+      href: "Models.html"
+    - text: "Articles/Projects"
+      href: "ArticlesProjects.html"
+
+
+      
+output_dir: '.'
