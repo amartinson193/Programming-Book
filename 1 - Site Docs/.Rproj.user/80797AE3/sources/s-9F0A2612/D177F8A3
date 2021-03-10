@@ -1,18 +1,18 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1615384987431.000,
+    "created" : 1615387472206.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "520E2A32",
-    "lastKnownWriteTime" : 1615384997,
-    "last_content_update" : 1615384997792,
+    "id" : "D177F8A3",
+    "lastKnownWriteTime" : 1615387487,
+    "last_content_update" : 1615387487368,
     "path" : "~/Github/Programming-Book/1 - Site Docs/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
-        "cursorPosition" : "16,0",
+        "cursorPosition" : "16,25",
         "scrollLine" : "0"
     },
     "relative_order" : 1,

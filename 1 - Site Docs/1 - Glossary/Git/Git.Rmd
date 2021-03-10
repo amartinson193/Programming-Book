@@ -1,0 +1,8 @@
+---
+title: "Git"
+output: 
+  html_document: 
+    theme: cerulean
+---
+    
+![Git Setup Doc](Github Setup Screenshot.png)

@@ -5,6 +5,13 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Package Glossary"
+      menu:
+        - text: 'Git'
+          menu:
+            - text: 'Git Home'
+              href: Git.html
+            - text: 'Git Glossary'
+              href: '1 - Glossary/Git/Git.html'
       href: "PackageGlossary.html"
     - text: "Models"
       href: "Models.html"
